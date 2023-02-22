@@ -3,5 +3,5 @@
 _this drum machine has:_
 
 - two banks with 9 audio clips each
-- easily toggles for power, audio, and banks
+- easy toggles for power, audio, and banks
 - support to be played with a keyboard
